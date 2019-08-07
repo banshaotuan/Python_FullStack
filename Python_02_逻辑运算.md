@@ -4,14 +4,16 @@
 # or
 
 ```
-> X or Y 为 True 返回 X
+> X or Y 为 True  返回 X
 > X or Y 为 False 返回 X
 ```
 print()
 
 # not
-
-
+```
+> X or Y 为 True  返回 X
+> X or Y 为 False 返回 X
+```
 
 
 # 优先级
