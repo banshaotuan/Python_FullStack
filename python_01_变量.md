@@ -1,9 +1,9 @@
 ### 1，计算机基础。
 ### 2，python历史。
-
 	宏观上：python2 与 python3 区别：
 		python2 源码不标准，混乱，重复代码太多，
 		python3 统一 标准，去除重复代码。
+		
 ### 3，python的环境。
 
 	编译型：一次性将所有程序编译成二进制文件。
@@ -17,14 +17,15 @@
 		:python ,php,等等。
 	
 ### 4，python的发展。
+
 ### 5，python种类。
 
 运行第一个py文件：
 	python3x :python 文件路径 回车
 	python2x :python2 文件路径 回车
 	python2 python3 区别：python2默认编码方式是ascii码
-						  解决方式：在文件的首行：#-*- encoding:utf-8 -*-
-						  python3 默认编码方式utf-8
+	解决方式：在文件的首行：#-*- encoding:utf-8 -*-
+	python3 默认编码方式utf-8
 
 						  
 ### 6，变量。
@@ -74,8 +75,6 @@ bool:布尔值。 True False。
 
 if 条件:
 	结果
-	
-
 
 ### 12，while。
 
